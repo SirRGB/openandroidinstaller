@@ -104,6 +104,7 @@ Fairphone | Fairphone 4 | [FP4](https://wiki.lineageos.org/devices/FP4) | | test
 
 Vendor | Device Name | CodeName | Models | Status
 ---|---|---|---|---
+Google | Nexus 9 | [flounder](wiki.lineageos.org/devices/flounder) | flounder | tested
 Google | Pixel 2 | [walleye](https://wiki.lineageos.org/devices/walleye) | walleye | tested
 Google | Pixel 2 XL | [taimen](https://wiki.lineageos.org/devices/taimen) | taimen | tested
 Google | Pixel 3 | [blueline](https://wiki.lineageos.org/devices/blueline) | blueline | tested

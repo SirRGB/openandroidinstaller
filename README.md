@@ -83,7 +83,7 @@ After starting the app you will be prompted to plug your device into your comput
 
 ## Officially supported devices
 
-Currently, the **we support 91 devices** by various vendors and working on adding more soon!
+Currently, the **we support 92 devices** by various vendors and working on adding more soon!
 
 Support for these devices is provided as best effort, but things might still go wrong.
 Help to improve the tool by reporting any issues you might face.
@@ -135,6 +135,7 @@ Motorola | moto g 5G plus / one 5G | [nairo](https://wiki.lineageos.org/devices/
 Motorola | moto g 5G / one 5G ace | [kiev](https://wiki.lineageos.org/devices/kiev) | XT2113-2, XT2113-3 | tested
 Motorola | moto z | [griffin](https://wiki.lineageos.org/devices/griffin) | XT1650-3, XT1650-05 | tested
 Motorola | moto z play | [addison](https://wiki.lineageos.org/devices/addison) | XT1635-01, XT1635-02, XT1635-03 | untested
+Motorola | moto z2 play | [albus](https://wiki.lineageos.org/devices/albus) | XT1710-01, XT1710-02, XT1710-07, XT1710-08, XT1710-09, XT1710-10, XT1710-11 | untested
 
 </details>
 

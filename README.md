@@ -83,7 +83,7 @@ After starting the app you will be prompted to plug your device into your comput
 
 ## Officially supported devices
 
-Currently, the **we support 89 devices** by various vendors and working on adding more soon!
+Currently, the **we support 90 devices** by various vendors and working on adding more soon!
 
 Support for these devices is provided as best effort, but things might still go wrong.
 Help to improve the tool by reporting any issues you might face.
@@ -172,6 +172,7 @@ Samsung | Galaxy A5 2017 | [a5y17lte](https://wiki.lineageos.org/devices/a5y17lt
 Samsung | Galaxy A7 2016 | [a7xelte](https://wiki.lineageos.org/devices/a7xelte) | | tested
 Samsung | Galaxy A7 2017 | [a7y17lte](https://wiki.lineageos.org/devices/a7y17lte) | | untested
 Samsung | Galaxy Grand Prime VE | grandprimevelte | SM-G531F | tested
+Samsung | Galaxy S III | [i9300](https://wiki.lineageos.org/devices/i9300) | GT-I9300/T | tested
 Samsung | Galaxy S III Neo | s3ve3g | GT-I9301I | tested
 Samsung | Galaxy Tab S2 | [gts210vewifi](https://wiki.lineageos.org/devices/gts210vewifi) | T813 | tested
 Samsung | Galaxy S4 | [jfltexx](https://wiki.lineageos.org/devices/jfltexx) | | untested

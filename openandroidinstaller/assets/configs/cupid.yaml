@@ -7,7 +7,6 @@ metadata:
   additional_steps:
     - dtbo
     - vbmeta
-    - super_empty
   device_code: cupid
   supported_device_codes:
     - cupid

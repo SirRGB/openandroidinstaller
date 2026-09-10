@@ -83,7 +83,7 @@ After starting the app you will be prompted to plug your device into your comput
 
 ## Officially supported devices
 
-Currently, the **we support 88 devices** by various vendors and working on adding more soon!
+Currently, the **we support 89 devices** by various vendors and working on adding more soon!
 
 Support for these devices is provided as best effort, but things might still go wrong.
 Help to improve the tool by reporting any issues you might face.
@@ -177,6 +177,7 @@ Samsung | Galaxy Tab S2 | [gts210vewifi](https://wiki.lineageos.org/devices/gts2
 Samsung | Galaxy S4 | [jfltexx](https://wiki.lineageos.org/devices/jfltexx) | | untested
 Samsung | Galaxy S4 Mini LTE| [serranoltexx](https://wiki.lineageos.org/devices/serranoltexx) | | tested
 Samsung | Galaxy S5 | [klte](https://wiki.lineageos.org/devices/klte) | G900F/M/R4/R7/T/V/W8 | tested
+Samsung | Galaxy S5 plus | [kccat6](https://wiki.lineageos.org/devices/kccat6) | SM-G901F | tested
 Samsung | Galaxy S5 mini | kminilte | SM-G800F/M/Y | tested
 Samsung | Galaxy S6 | [zerofltexx](https://wiki.lineageos.org/devices/zerofltexx) | | tested
 Samsung | Galaxy S6 Edge | [zeroltexx](https://wiki.lineageos.org/devices/zeroltexx) | | tested

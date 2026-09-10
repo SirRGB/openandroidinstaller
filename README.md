@@ -164,33 +164,33 @@ OnePlus | 9 | [lemonade](https://wiki.lineageos.org/devices/lemonade) | LE2110, 
 
 Vendor | Device Name | CodeName | Models | Status
 ---|---|---|---|---
-Samsung | Galaxy J7 2015 | [j7elte](https://wiki.lineageos.org/devices/j7elte) | | tested
+Samsung | Galaxy J7 2015 | [j7elte](https://wiki.lineageos.org/devices/j7elte) | SM-J700F/F/DS/H/M | tested
 Samsung | Galaxy J7 Prime | on7xelte | | untested
 Samsung | Galaxy A3 2017 | a3y17lte | SM-A320FL | tested
-Samsung | Galaxy A5 2016 | [a5xelte](https://wiki.lineageos.org/devices/a5xelte) | SM-A510F | tested
-Samsung | Galaxy A5 2017 | [a5y17lte](https://wiki.lineageos.org/devices/a5y17lte) | | tested
-Samsung | Galaxy A7 2016 | [a7xelte](https://wiki.lineageos.org/devices/a7xelte) | | tested
-Samsung | Galaxy A7 2017 | [a7y17lte](https://wiki.lineageos.org/devices/a7y17lte) | | untested
+Samsung | Galaxy A5 2016 | [a5xelte](https://wiki.lineageos.org/devices/a5xelte) | SM-A510F/F/DS/M/Y/K/L/S/8 | tested
+Samsung | Galaxy A5 2017 | [a5y17lte](https://wiki.lineageos.org/devices/a5y17lte) | SM-A520F/F/DS/K/L/S/W | tested
+Samsung | Galaxy A7 2016 | [a7xelte](https://wiki.lineageos.org/devices/a7xelte) | SM-A710F/F/DS/M/Y/K/L/S | tested
+Samsung | Galaxy A7 2017 | [a7y17lte](https://wiki.lineageos.org/devices/a7y17lte) | SM-A720F/F/DS/DS | untested
 Samsung | Galaxy Grand Prime VE | grandprimevelte | SM-G531F | tested
 Samsung | Galaxy S III | [i9300](https://wiki.lineageos.org/devices/i9300) | GT-I9300/T | tested
 Samsung | Galaxy S III Neo | s3ve3g | GT-I9301I | tested
-Samsung | Galaxy Tab S2 | [gts210vewifi](https://wiki.lineageos.org/devices/gts210vewifi) | T813 | tested
-Samsung | Galaxy S4 | [jfltexx](https://wiki.lineageos.org/devices/jfltexx) | | untested
-Samsung | Galaxy S4 Mini LTE| [serranoltexx](https://wiki.lineageos.org/devices/serranoltexx) | | tested
+Samsung | Galaxy Tab S2 | [gts210vewifi](https://wiki.lineageos.org/devices/gts210vewifi) | SM-T813 | tested
+Samsung | Galaxy S4 | [jfltexx](https://wiki.lineageos.org/devices/jfltexx) | GT-I9505/SGH-I337M/SGH-M919/V | untested
+Samsung | Galaxy S4 Mini LTE| [serranoltexx](https://wiki.lineageos.org/devices/serranoltexx) | GT-I9195/SGH-I257M/SHV-E370K | tested
 Samsung | Galaxy S5 | [klte](https://wiki.lineageos.org/devices/klte) | G900F/M/R4/R7/T/V/W8 | tested
 Samsung | Galaxy S5 plus | [kccat6](https://wiki.lineageos.org/devices/kccat6) | SM-G901F | tested
 Samsung | Galaxy S5 mini | kminilte | SM-G800F/M/Y | tested
-Samsung | Galaxy S6 | [zerofltexx](https://wiki.lineageos.org/devices/zerofltexx) | | tested
-Samsung | Galaxy S6 Edge | [zeroltexx](https://wiki.lineageos.org/devices/zeroltexx) | | tested
-Samsung | Galaxy S7 | [herolte](https://wiki.lineageos.org/devices/herolte) | SM-G930F | tested
-Samsung | Galaxy S7 Edge | [hero2lte](https://wiki.lineageos.org/devices/hero2lte) | | tested
+Samsung | Galaxy S6 | [zerofltexx](https://wiki.lineageos.org/devices/zerofltexx) | SM-G920F | tested
+Samsung | Galaxy S6 Edge | [zeroltexx](https://wiki.lineageos.org/devices/zeroltexx) | SM-G925F | tested
+Samsung | Galaxy S7 | [herolte](https://wiki.lineageos.org/devices/herolte) | SM-G930F/FD/S/K/L/W8 | tested
+Samsung | Galaxy S7 Edge | [hero2lte](https://wiki.lineageos.org/devices/hero2lte) | SM-G935F/FD/S/K/L/W8 | tested
 Samsung | Galaxy S8 | dreamlte | | tested
-Samsung | Galaxy S9 | [starlte](https://wiki.lineageos.org/devices/starlte) | | tested
-Samsung | Galaxy Note 3 LTE | [hltetmo](https://wiki.lineageos.org/devices/hltetmo) | N900T/V/W8 | tested
+Samsung | Galaxy S9 | [starlte](https://wiki.lineageos.org/devices/starlte) | SM-G960F/F/DS/N | tested
+Samsung | Galaxy Note 3 LTE | [hltetmo](https://wiki.lineageos.org/devices/hltetmo) | SM-N900T/V/W8 | tested
 Samsung | Galaxy Note 8 | greatlte | SM-N950F | tested
-Samsung | Galaxy Note 9 | [crownlte](https://wiki.lineageos.org/devices/crownlte) | | tested
-Samsung | Galaxy Note 10 | [d1](https://wiki.lineageos.org/devices/d1) | | tested
-Samsung | Galaxy Note 10+ | [d2s](https://wiki.lineageos.org/devices/d2s) | | tested
+Samsung | Galaxy Note 9 | [crownlte](https://wiki.lineageos.org/devices/crownlte) | SM-N960F/F/DS/N| tested
+Samsung | Galaxy Note 10 | [d1](https://wiki.lineageos.org/devices/d1) | SM-N970F/F/DS | tested
+Samsung | Galaxy Note 10+ | [d2s](https://wiki.lineageos.org/devices/d2s) | SM-N975F/F/DS | tested
 
 </details>
 

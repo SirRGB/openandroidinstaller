@@ -83,7 +83,7 @@ After starting the app you will be prompted to plug your device into your comput
 
 ## Officially supported devices
 
-Currently, the **we support 90 devices** by various vendors and working on adding more soon!
+Currently, the **we support 91 devices** by various vendors and working on adding more soon!
 
 Support for these devices is provided as best effort, but things might still go wrong.
 Help to improve the tool by reporting any issues you might face.
@@ -126,7 +126,8 @@ Vendor | Device Name | CodeName | Models | Status
 Motorola | edge | [racer](https://wiki.lineageos.org/devices/racer) | XT2063-2, XT2063-3 | tested
 Motorola | moto g5 | [cedric](https://wiki.lineageos.org/devices/cedric) | XT1670, XT1671, XT1672, XT1675, XT1676, XT1677 | tested
 Motorola | moto g5s | [montana](https://wiki.lineageos.org/devices/montana) | XT1790, XT1791, XT1792, XT1793, XT1794, XT1795, XT1797, XT1799-2 | untested
-Motorola | moto g5 plus | potter |  XT1680, XT1681, XT1683, XT1684, XT1685, XT1686, XT1687 | untested
+Motorola | moto g5 plus | potter | XT1680, XT1681, XT1683, XT1684, XT1685, XT1686, XT1687 | untested
+Motorola | moto g5s plus | sanders | XT1803, XT1804, XT1805, XT1806 | untested
 Motorola | moto g6 | ali | XT1925-1, XT1925-3, XT1925-4, XT1925-5, XT1925-6, XT1925-7, XT1925-13 | tested
 Motorola | moto g6 plus | [evert](https://wiki.lineageos.org/devices/evert) | XT1926-2, XT1926-3, XT1926-5, XT1926-6, XT1926-7, XT1926-8, XT1926-9 | tested
 Motorola | moto g7 power | [ocean](https://wiki.lineageos.org/devices/ocean) | XT1955-1, XT1955-2, XT1955-4, XT1955-5, XT1955-7 | tested
